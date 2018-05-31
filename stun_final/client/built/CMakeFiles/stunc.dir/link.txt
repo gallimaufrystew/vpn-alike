@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/stunc.dir/stunc.cc.o CMakeFiles/stunc.dir/stunc_config.cc.o CMakeFiles/stunc.dir/stunc_core.cc.o CMakeFiles/stunc.dir/stunc_signal.cc.o CMakeFiles/stunc.dir/stunc_socket.cc.o  -o stunc -lssl -lcrypto 

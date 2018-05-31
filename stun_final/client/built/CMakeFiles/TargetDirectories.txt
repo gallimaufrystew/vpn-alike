@@ -1,0 +1,3 @@
+/home/herpburn/Downloads/stun/cc/built/CMakeFiles/rebuild_cache.dir
+/home/herpburn/Downloads/stun/cc/built/CMakeFiles/stunc.dir
+/home/herpburn/Downloads/stun/cc/built/CMakeFiles/edit_cache.dir
